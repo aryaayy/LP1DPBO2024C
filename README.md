@@ -25,3 +25,13 @@ Terdiri dari 1 Class, yaitu Anggota yang terdiri dari atribut-atribut berikut:
 ## Dokumentasi
 
 ### PHP
+![awikwok](php/Screenshots/php1.png)
+![awikwok](php/Screenshots/php2.png)
+
+### Java
+![awikwok](java/Screenshot/java1.png)
+![awikwok](java/Screenshot/java2.png)
+
+### Python
+![awikwok](py/Screenshots/py1.png)
+![awikwok](py/Screenshots/py2.png)
