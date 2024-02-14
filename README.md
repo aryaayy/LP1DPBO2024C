@@ -35,3 +35,7 @@ Terdiri dari 1 Class, yaitu Anggota yang terdiri dari atribut-atribut berikut:
 ### Python
 ![awikwok](py/Screenshots/py1.png)
 ![awikwok](py/Screenshots/py2.png)
+
+### CPP
+![awikwok](cpp/Screenshot/cpp1)
+![awikwok](cpp/Screenshot/cpp2)
